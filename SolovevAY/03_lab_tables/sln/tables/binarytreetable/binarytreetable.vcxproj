@@ -144,9 +144,6 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\sample\BinaryTreeTable\main.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <Library Include="..\x64\Debug\library.lib" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

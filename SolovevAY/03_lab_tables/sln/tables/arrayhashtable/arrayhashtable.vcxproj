@@ -101,7 +101,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>D:\Programming\SolovevAY\mp2-practice-1\SolovevAY\03_lab_tables\sln\tables\x64\Debug;D:\Programming\SolovevAY\mp2-practice-1\SolovevAY\03_lab_tables\sln\tables\arrayhashtable\x64\Debug;../../../include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>../../../include</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -147,9 +147,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\sample\ArrayHastTable\main.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <Library Include="..\x64\Debug\library.lib" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
