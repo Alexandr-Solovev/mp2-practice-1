@@ -1,0 +1,2 @@
+D:\Programming\SolovevAY\mp2-practice-1\SolovevAY\03_lab_tables\sln\tables\x64\Debug\library.pdb
+D:\Programming\SolovevAY\mp2-practice-1\SolovevAY\03_lab_tables\sln\tables\library\x64\Debug\library.pdb
